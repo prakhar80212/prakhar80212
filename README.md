@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing innovative web applications and exploring advanced image processing techniques.
 - 🌱 I’m currently learning Flask, OpenCV, and advanced machine learning algorithms.
 - 💞️ I’m looking to collaborate on projects involving real-time detection systems, recommender systems, and web-based applications.
-- 📫 How to reach me: You can contact me via email at prakharsrivastava80212@example.com or connect with me on LinkedIn.
+- 📫 How to reach me: You can contact me via email at prakharsrivastava80212@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love combining my passion for coding with my interest in photography to create visually stunning and functional web applications.
 
